@@ -77,7 +77,7 @@ webArray[2] = new projectContent();
 webArray[2].setShortName("SWW");
 webArray[2].setLongName("Simple Woot Watcher");
 webArray[2].setTechnologies("PHP, HTML5, CSS3, JavaScript, JQuery, AJAX");
-webArray[2].setDescription("<p>The <a href='http://simplewootwatcher.com/' target='_blank'>Simple Woot Watcher</a> was created when my wife and I wanted to have a super light-weight website to watch what is currently on <a href='http://www.woot.com/' target='_blank'>Woot.com</a>. It had to be mobile-friendly, flexible, and ad-free. That weekend I took aside around 12 hours to create it.</p>\
+webArray[2].setDescription("<p>The Simple Woot Watcher was created when my wife and I wanted to have a super light-weight website to watch what is currently on <a href='http://www.woot.com/' target='_blank'>Woot.com</a>. It had to be mobile-friendly, flexible, and ad-free. That weekend I took aside around 12 hours to create it.</p>\
             <p>The site uses PHP to create the markup of the index page, as well as the AJAX helper functions. The majority of the page's functionality is written in JQuery and JavaScript. I took advantage of new HTML5 and CSS3 properties to achieve the flexibility and design.</p>\
             <p>The site site allows for users to specify keywords that will trigger an alarm sound and will highlight the responsible item. Additonally, Woot-Off mode refreshes the content every 10 seconds with AJAX requests. Finally, the site remembers content that the user has seen and will highlight new products.</p>");
 webArray[2].setPictures(["SWW1.png","SWW2.png","SWW3.png"]);
